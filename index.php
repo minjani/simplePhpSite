@@ -11,7 +11,7 @@ echo "Hello world! My name is \"Minja\"";
 
 <h3>3.2 Create a PHP variable named $title and assign it the value "PHP is interesting." Then, use this variable as the content within an  (heading 4) element.</h3>
 <?php 
-$title = "PHP is interesting";
+$title = "PHP is very interesting";
 echo "<h4>$title</h4>";
 ?>
 
